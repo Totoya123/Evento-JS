@@ -9,5 +9,4 @@ console.log(ListaItens);
 //para pegar o elemento btn e usar da escuta click
 const botao = document.getElementById('btn');
 botao.addEventListener('click', function() {
-    alert("Você clicou no botão")
 });
