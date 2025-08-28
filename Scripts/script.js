@@ -10,3 +10,8 @@ console.log(ListaItens);
 // const botao = document.getElementById('btn');
 // botao.addEventListener('click', function() {
 // });
+
+const cor = Document.getElementsById ('btn');
+cor. addEventListener ('click', function, function(){
+    document. body.style.backgroundColor = 'yellow'
+})
